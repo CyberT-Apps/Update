@@ -1,26 +1,27 @@
 {
-  "version": "1.4.2",
-  "body": "CyberT 全新自研客户端 CyberClash 正式上线！",
+  "version": "2.0.1",
+  "body": "CyberClash 自研客户端 正式上线",
   "download_url": "",
   "platforms": {
     "windows": {
-      "version": "1.4.2",
-      "body": "CyberT 全新自研客户端 CyberClash 正式上线！",
-      "download_url": ""
+      "version": "2.0.1",
+      "body": "CyberClash 自研客户端 正式上线",
+      "download_url": "https://download.979646.xyz/download/CyberClash-2.0.1-windows-amd64-setup.exe"
     },
     "macos": {
-      "version": "1.4.2",
-      "body": "CyberT 全新自研客户端 CyberClash 正式上线！",
-      "download_url": ""
+      "version": "2.0.1",
+      "body": "CyberClash 自研客户端 正式上线",
+      "download_url": "https://download.979646.xyz/download/CyberClash-2.0.1-macos-arm64.dmg",
+      "download_url_amd": "https://download.979646.xyz/download/CyberClash-2.0.1-macos-amd64.dmg"
     },
     "android": {
-      "version": "1.4.2",
-      "body": "CyberT 全新自研客户端 CyberClash 正式上线！",
-      "download_url": ""
+      "version": "2.0.1",
+      "body": "CyberClash 自研客户端 正式上线",
+      "download_url": "https://download.979646.xyz/download/cyberclash.seppd-2.0.1-android-arm64-v8a.apk"
     },
     "linux": {
-      "version": "1.4.2",
-      "body": "CyberT 全新自研客户端 CyberClash 正式上线！",
+      "version": "2.0.1",
+      "body": "CyberClash 自研客户端 正式上线",
       "download_url": ""
     }
   }
