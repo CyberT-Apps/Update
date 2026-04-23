@@ -2,17 +2,17 @@
   "platforms": {
     "windows": {
       "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
       "download_url": "https://share.feijipan.com/s/RZ4BMD0k"
     },
     "macos": {
       "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
       "download_url": "https://share.feijipan.com/s/OX4BM6ZE"
     },
     "android": {
       "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
       "download_url": "https://share.feijipan.com/s/9O4B0qXf"
     }
   }
