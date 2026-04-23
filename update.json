@@ -1,28 +1,19 @@
 {
-  "version": "2.0.1",
-  "body": "CyberClash 自研客户端 正式上线",
-  "download_url": "",
   "platforms": {
     "windows": {
-      "version": "2.0.1",
-      "body": "CyberClash 自研客户端 正式上线",
-      "download_url": "https://download.979646.xyz/download/CyberClash-2.0.1-windows-amd64-setup.exe"
+      "version": "3.0.2",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "download_url": "https://share.feijipan.com/s/RZ4BMD0k"
     },
     "macos": {
-      "version": "2.0.1",
-      "body": "CyberClash 自研客户端 正式上线",
-      "download_url": "https://download.979646.xyz/download/CyberClash-2.0.1-macos-arm64.dmg",
-      "download_url_amd": "https://download.979646.xyz/download/CyberClash-2.0.1-macos-amd64.dmg"
+      "version": "3.0.2",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "download_url": "https://share.feijipan.com/s/OX4BM6ZE"
     },
     "android": {
-      "version": "2.0.1",
-      "body": "CyberClash 自研客户端 正式上线",
-      "download_url": "https://download.979646.xyz/download/cyberclash.seppd-2.0.1-android-arm64-v8a.apk"
-    },
-    "linux": {
-      "version": "2.0.1",
-      "body": "CyberClash 自研客户端 正式上线",
-      "download_url": ""
+      "version": "3.0.2",
+      "body": "修复购买后节点加载不出来的缓存问题\n增加地图\n增加Socks链式代理功能\n增加自定义规则",
+      "download_url": "https://share.feijipan.com/s/9O4B0qXf"
     }
   }
 }
