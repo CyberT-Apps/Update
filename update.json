@@ -1,19 +1,19 @@
 {
   "platforms": {
     "windows": {
-      "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
-      "download_url": "https://share.feijipan.com/s/RZ4BMD0k"
+      "version": "3.0.9",
+      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-windows-amd64-setup.exe"
     },
     "macos": {
-      "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
-      "download_url": "https://share.feijipan.com/s/OX4BM6ZE"
+      "version": "3.0.9",
+      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-macos-universal.pkg"
     },
     "android": {
-      "version": "3.0.2",
-      "body": "修复购买后节点加载不出来的缓存问题\n增加地图功能\n增加Socks链式代理功能\n增加自定义规则功能",
-      "download_url": "https://share.feijipan.com/s/9O4B0qXf"
+      "version": "3.0.9",
+      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-universal.apk"
     }
   }
 }
