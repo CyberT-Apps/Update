@@ -2,17 +2,17 @@
   "platforms": {
     "windows": {
       "version": "3.0.9",
-      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "body": "1.更改App名称和图标，和官网对齐\n2.增加提前开启下个套餐周期的功能\n3.增加充值功能\n4.优化排版",
       "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-windows-amd64-setup.exe"
     },
     "macos": {
       "version": "3.0.9",
-      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "body": "1.更改App名称和图标，和官网对齐\n2.增加提前开启下个套餐周期的功能\n3.增加充值功能\n4.优化排版",
       "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-macos-universal.pkg"
     },
     "android": {
       "version": "3.0.9",
-      "body": "更改App名称和图标，和官网对齐\n增加提前开启下个套餐周期的功能\n增加充值功能\n优化排版",
+      "body": "1.更改App名称和图标，和官网对齐\n2.增加提前开启下个套餐周期的功能\n3.增加充值功能\n4.优化排版",
       "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-3.0.9-android-arm64-v8a.apk"
     }
   }
