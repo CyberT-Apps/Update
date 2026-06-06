@@ -2,7 +2,7 @@
   "platforms": {
     "windows": {
       "version": "4.0.0",
-      "body": "修复v3.0.9中提前开启下个套餐周期的Bug\n2.优化退出应用时的速度",
+      "body": "1.修复v3.0.9中提前开启下个套餐周期的Bug\n2.优化退出应用时的速度",
       "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.0-windows-amd64-setup.exe"
     },
     "macos": {
