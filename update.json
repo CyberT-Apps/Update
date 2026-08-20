@@ -1,19 +1,19 @@
 {
   "platforms": {
     "windows": {
-      "version": "4.0.0",
-      "body": "1.修复v3.0.9中提前开启下个套餐周期的Bug\n2.优化退出应用时的速度",
-      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.0-windows-amd64-setup.exe"
+      "version": "4.0.1",
+      "body": "1.优化上个版本中提前开启下个套餐周期的弹窗显示\n2.本次更新CyberT的应用ID从CyberClash改为CyberT，老版本应用请删除",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.1-windows-amd64-setup.exe"
     },
     "macos": {
-      "version": "4.0.0",
-      "body": "修复v3.0.9中提前开启下个套餐周期的Bug",
-      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.0-macos-universal.pkg"
+      "version": "4.0.1",
+      "body": "优化上个版本中提前开启下个套餐周期的弹窗显示",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.1-macos-universal.pkg"
     },
     "android": {
-      "version": "4.0.0",
-      "body": "修复v3.0.9中提前开启下个套餐周期的Bug",
-      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.0-android-arm64-v8a.apk"
+      "version": "4.0.1",
+      "body": "优化上个版本中提前开启下个套餐周期的弹窗显示",
+      "download_url": "https://xz.downloadapps.uk/d/OfficialApps/CyberT-4.0.1-android-arm64-v8a.apk"
     }
   }
 }
